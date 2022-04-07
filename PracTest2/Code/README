@@ -1,0 +1,14 @@
+## Synopsis
+Practical Test 2 - the second test for COMP1005 Fundementals of Programming
+
+## Contents
+README - readme file for Test 2
+Growth2D.py - Input csv file data and model growth in a simulation 
+
+## Dependencies
+matplotlib.pyplot
+numpy
+random
+
+## Version information
+14/4/2021 - initial version of Growth2D.py

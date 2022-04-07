@@ -1,0 +1,17 @@
+## Synopsis
+Practical Test 1 - the first test for COMP1005 Fundementals of Programming
+
+## Contents
+README - readme file for Test 1
+test1.py -  Print a string and its length, also print every 3rd charater 
+                backwards adn uppercase, also print string forwards even 
+                characters lowercase odd characters uppercase and every 3rd 
+                as a %, also check how many of a character is in the string and
+                print, plot this infomation as a bar graph
+
+## Dependencies
+matplotlib.pyplot
+numpy
+
+## Version information
+24/3/2021 - initial version of test1.py

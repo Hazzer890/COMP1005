@@ -1,0 +1,12 @@
+## Synopsis
+Practical Test 3 - the third test for COMP1005 Fundementals of Programming
+
+## Contents
+README - readme file for Test 3
+accounts.py - Code for constructing a bank account and completing actions within
+testAccounts.py - Code for testing the the account construction and handling in accounts.py 
+
+## Dependencies
+
+## Version information
+28/4/2021 - initial version of accounts.py and testAccounts.py

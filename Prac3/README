@@ -1,0 +1,21 @@
+## Synopsis
+Practical 2 of Fundementals of Programming COMP1005
+## Contents
+README - readme file for Practical 1
+growthplot.py - models and plots a growth simulation
+numbersarray.py - Read in ten numbers and give sum, min, max & mean 
+growtharray.py - simulation of unconstrained growth using arrays
+growthsubplot.py - Simulation of unconstrained growth with subplots
+numbersbar.py - Read in ten numbers and give sum, min, max & mean and plot as bar chart
+dosage.py - models concentration of asprin in plasma
+repeatdosage.py - models concentration of asprin in plasma with repeated dosage
+skipdosage.py - models repeated dosages and effects of skips
+growthplot.png - figure of plot for growthplot.py
+growthsubplot.png - figure of plot for growthsubplot.py
+NumbersBarChart'.png - figure of plot for numbersbar.py
+## Dependencies
+matplotlib.pyplot
+numpy
+## Version information
+16/3/2021 - initial version of growthplot.py
+17/3/2021 - final version of all programs

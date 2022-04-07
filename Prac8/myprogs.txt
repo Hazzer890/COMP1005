@@ -1,0 +1,28 @@
+../Prac1/README:numbers1.py - Read in number and echo the numberand its type to screen
+../Prac1/README:numbers2.py - Read in ten numbers and give sum of numbers
+../Prac1/README:numbers3.py - Read in a list of numbers and give the sum of the numbers
+../Prac1/README:growth.py - simulation of unconstrained  growth
+../Prac2/README:Strings1.py - Read in a string and print it in reverse
+../Prac2/README:Strings2.py - Strings1.py with modifications, prints string forward 
+../Prac2/README:Bucket1.py - use a python list foritems in a bucket list
+../Prac2/README:Bucket2.py - bucket list builder
+../Prac2/README:Assorted.py - selecting random biscuits froma pack
+../Prac2/README:Pi.py - Determine pi with random numbers
+../Prac2/README:Cointoss.py - simulate tossing a coin multiple times
+../Prac3/README:growthplot.py - models and plots a growth simulation
+../Prac3/README:numbersarray.py - Read in ten numbers and give sum, min, max & mean 
+../Prac3/README:growtharray.py - simulation of unconstrained growth using arrays
+../Prac3/README:growthsubplot.py - Simulation of unconstrained growth with subplots
+../Prac3/README:numbersbar.py - Read in ten numbers and give sum, min, max & mean and plot as bar chart
+../Prac3/README:dosage.py - models concentration of asprin in plasma
+../Prac3/README:repeatdosage.py - models concentration of asprin in plasma with repeated dosage
+../Prac3/README:skipdosage.py - models repeated dosages and effects of skips
+../Prac3/README:growthplot.png - figure of plot for growthplot.py
+../Prac3/README:growthsubplot.png - figure of plot for growthsubplot.py
+../Prac3/README:NumbersBarChart'.png - figure of plot for numbersbar.py
+../Prac3/README:matplotlib.pyplot
+../Prac3/README:numpy
+../Prac3/README:16/3/2021 - initial version of growthplot.py
+../PracTest3/README:accounts.py - Code for constructing a bank account and completing actions within
+../PracTest3/README:testAccounts.py - Code for testing the the account construction and handling in accounts.py 
+../PracTest3/README:28/4/2021 - initial version of accounts.py and testAccounts.py
