@@ -1,7 +1,7 @@
-## Synopsis
+# Synopsis
 Practical Test 4 - the forth test for COMP1005 Fundementals of Programming
 
-## Contents
+# Contents
 README - readme file for Test 4
 gremlinBase.py - python code for running a gremlins simulation
 gremlinSim.py - python code with gremlin simulation functions
@@ -9,7 +9,7 @@ gremlin_pop-sample.csv - csv file with a sample population distbn to be read by 
 gremlins.ipynb - Jupyter Notebook with gremlin data
 gremlinSweep.sh - Bash file for running a parameter sweeps on gremlinBase.py
 
-## Dependencies
+# Dependencies
 matplotlib.pyplot
 numpy
 random
@@ -17,5 +17,5 @@ sys
 pandas
 Jupyter Notebook
 
-## Version information
+# Version information
 19/5/2021 - initial version
